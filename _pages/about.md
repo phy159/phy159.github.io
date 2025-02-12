@@ -27,5 +27,3 @@ latest_posts:
 ---
 
 I study polariton condensates, a unique type of quantum fluid that can flow without resistance at room temperature. My research aims to unlock novel functionalities to harness their potential for low-energy applications to help tackle the growing energy demands of the internet and artificial intelligence. I also seek to exploit their hybrid light-matter nature to generate and control quantum states, which can be useful for future advancements in hybrid quantum technologies.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons] https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
