@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>60 Mills Rd</p>
-    <p>Acton ACT 2601 Australia</p>
+    <p>Department of Quantum Science and Technology</p>
+    <p>Research School of Physics</p>
+    <p>The Australian Natioanl University</p>
+    <p>Canberra, ACT 2601 Australia</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,3 +29,5 @@ latest_posts:
 ---
 
 I study polariton condensates, a unique type of quantum fluid that can flow without resistance at room temperature. My research aims to unlock novel functionalities to harness their potential for low-energy applications to help tackle the growing energy demands of the internet and artificial intelligence. I also seek to exploit their hybrid light-matter nature to generate and control quantum states, which can be useful for future advancements in hybrid quantum technologies.
+
+This website is still under construction!
