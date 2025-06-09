@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I study polariton condensates, a unique type of quantum fluid that can flow without resistance at room temperature. My research aims to unlock novel functionalities to harness their potential for low-energy applications to help tackle the growing energy demands of the internet and artificial intelligence. I also seek to exploit their hybrid light-matter nature to generate and control quantum states, which can be useful for future advancements in hybrid quantum technologies.
+I am a physicist studying particles made of both light and matter called exciton polaritons or simply “polaritons”. My research aims to unlock novel functionalities to harness their potential for low-energy applications to help tackle the growing energy demands of the internet and artificial intelligence. I also seek to exploit their hybrid nature to generate and control quantum states, which can be useful for future advancements in hybrid quantum technologies.
+
+I moved to Australia from the Philippines for my PhD, met my wife, stayed for a postdoc, and had 2 kids. Currently, I am an Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) Fellow.
 
 This website is still under construction!
